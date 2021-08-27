@@ -5,7 +5,7 @@ def main():
     #escribe tu código abajo de esta línea
     b = float(input("Dame la base: "))
     a = float(input("Dame la altura: "))
-
+#formula de r
     r = area(b,a)
 
     print("El área del rectángulo es:",r)
